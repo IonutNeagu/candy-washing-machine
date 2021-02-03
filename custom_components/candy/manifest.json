@@ -1,0 +1,10 @@
+{
+  "domain": "candy",
+  "name": "Candy washing machine",
+  "documentation": "https://github.com/IonutNeagu/candy-washing-machine",
+  "issue_tracker": "https://github.com/IonutNeagu/candy-washing-machine/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@IonutNeagu"],
+  "requirements": []
+}

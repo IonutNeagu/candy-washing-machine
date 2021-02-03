@@ -1,0 +1,10 @@
+{
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "Candy",
+  "domain_name": "candy",
+  "friendly_name": "Candy washing machine",
+  "github_user": "IonutNeagu",
+  "project_name": "candy-washing-machine",
+  "test_suite": "no",
+  "version": "0.0.0"
+}
